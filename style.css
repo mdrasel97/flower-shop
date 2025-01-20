@@ -122,6 +122,17 @@ header{
     color: #E55473;
 }
 
+/* instagram */
+.instagram_container{
+    display: flex;
+    padding: 30px;
+    gap: 20px;
+
+}
+.img_content img{
+    width: 100%;
+}
+
 
 
 
