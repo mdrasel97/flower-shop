@@ -132,6 +132,16 @@ header{
 .img_content img{
     width: 100%;
 }
+/* footer */
+footer{
+    background: rgb(17, 16, 16);
+    padding: 100px 0px;
+    color: #fff;
+}
+footer p{
+    font-size: 12px;
+    margin: 15px 0px;
+}
 
 
 
