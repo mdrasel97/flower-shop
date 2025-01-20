@@ -158,5 +158,11 @@ footer p{
         flex-direction: column;
         gap: 20px;
     }
+
+    .hot_deal_sell_container{
+        flex-direction: column;
+        gap: 30px;
+        padding: 20px;
+    }
     
 }
